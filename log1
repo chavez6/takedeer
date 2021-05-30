@@ -1,0 +1,46 @@
+css
+
+body{
+	background-color: beige;
+	margin: 25px;
+}
+
+#main{
+	display: grid;
+	height: 95vh;
+	grid-template-rows: 100px 60%;
+}
+
+#row1{
+	background-color: blueviolet;
+}
+
+#row2{
+	background-color: purple;
+}
+
+html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="../TakeDeer/takedeer.css">
+</head>
+<body>
+	<div id="main">
+
+		<div id="row1">
+			<nav>
+				
+			</nav>
+		</div>
+
+		<div id="row2">
+			c
+		</div>
+
+	</div>
+</body>
+</html>
